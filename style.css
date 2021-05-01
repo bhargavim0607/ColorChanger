@@ -1,0 +1,27 @@
+body{
+    display: block;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    box-sizing: border-box;
+    background-color: black;
+    margin: auto;
+    margin-top: 200px;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 5px;
+}
+div{
+    display: block;
+}
+*, ::after, ::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: blanchedalmond;
+}
+.btn-group{
+    margin-top: 50px;
+    
+}
